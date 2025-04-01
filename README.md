@@ -1,23 +1,14 @@
-[你好!](https://www.atal.moe)
-[Greeting!](https://www.atal.moe)
+Hello! I go by Cleo Jing, using `AtomAlpaca` as social media handle.
 
+A normal senior high school student, interested in Computer Science and Mathematics.
 
-这里是`AtomAlpaca`。你也可以叫我的英文名字 `Cleo`。
+Once was an OIer, got a full brain for algorithms and nearly no rewards from it. Find me at [Luogu](https://www.luogu.com.cn/user/374500) or [Codeforces](https://codeforces.com/profile/AtomAlpaca).
 
-Here is `AtomAlpaca`. You can also call me by my English name `Cleo`.
+## Currently working on
+- [Wave](https://github.com/AtomAlpaca/Wave), a lightweight Android app for tracking mood changes, developed using Jetpack Compose.
+- My own [website](https://www.atal.moe) and [blog](https://blog.atal.moe), where I primarily write about algorithms and Mathematics.
+- Occasionally write some pages for [OI-wiki](https://github.com/OI-wiki/OI-wiki)
 
-
-一个普通的高中生，对计算机科学和数学感兴趣。
-
-A normal senior high school student, interested in Computer Science and math.
-
-
-信息学竞赛参与者，调停者，期望使用“她”作为第三人称代词
-
-OIer, INFP, She/Her
-
-
-Using `Artix Linux` as main OS, also using `Windows 10` ~~in order to have online class~~
-
-使用 `Artix Linux` 用于日用系统，~~为了上网课~~也在使用 `Windows 10`
-
+## Also see
+- [littlelambda](https://github.com/AtomAlpaca/littlelambda), untyped lambda calculus implemention using Haskell
+- [littlescheme](https://github.com/AtomAlpaca/littlescheme), a lisp-like language implemented using Lean4
